@@ -1,7 +1,7 @@
 {
-  "name": "Tundra TRD Pro Service Log",
+  "name": "Vehicle Service Log",
   "short_name": "Service Log",
-  "description": "Maintenance and warranty service history tracker for a 2024 Toyota Tundra TRD Pro",
+  "description": "Maintenance and warranty service history tracker for multiple vehicles",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
